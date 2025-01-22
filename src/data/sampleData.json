@@ -1,0 +1,476 @@
+{
+    "data": [
+      {
+        "date_date": "1728536400000.000000",
+        "max_heart_rate_bpm": 120,
+        "min_heart_rate_bpm": 68,
+        "avg_heart_rate_bpm": 86.56
+      },
+      {
+        "date_date": "1728622800000.000000",
+        "max_heart_rate_bpm": 114,
+        "min_heart_rate_bpm": 57,
+        "avg_heart_rate_bpm": 70.55626598465473
+      },
+      {
+        "date_date": "1728709200000.000000",
+        "max_heart_rate_bpm": 145,
+        "min_heart_rate_bpm": 61,
+        "avg_heart_rate_bpm": 78.13712871287129
+      },
+      {
+        "date_date": "1728795600000.000000",
+        "max_heart_rate_bpm": 106,
+        "min_heart_rate_bpm": 57,
+        "avg_heart_rate_bpm": 71.73981123981125
+      },
+      {
+        "date_date": "1728882000000.000000",
+        "max_heart_rate_bpm": 166,
+        "min_heart_rate_bpm": 60,
+        "avg_heart_rate_bpm": 93.75555555555556
+      },
+      {
+        "date_date": "1728968400000.000000",
+        "max_heart_rate_bpm": 157,
+        "min_heart_rate_bpm": 54,
+        "avg_heart_rate_bpm": 75.21934865900383
+      },
+      {
+        "date_date": "1729054800000.000000",
+        "max_heart_rate_bpm": 183,
+        "min_heart_rate_bpm": 67,
+        "avg_heart_rate_bpm": 144.96786197564276
+      },
+      {
+        "date_date": "1729141200000.000000",
+        "max_heart_rate_bpm": 139,
+        "min_heart_rate_bpm": 55,
+        "avg_heart_rate_bpm": 76.57833655705996
+      },
+      {
+        "date_date": "1729227600000.000000",
+        "max_heart_rate_bpm": 134,
+        "min_heart_rate_bpm": 69,
+        "avg_heart_rate_bpm": 90.73693086003372
+      },
+      {
+        "date_date": "1729314000000.000000",
+        "max_heart_rate_bpm": 151,
+        "min_heart_rate_bpm": 73,
+        "avg_heart_rate_bpm": 115.46352941176471
+      },
+      {
+        "date_date": "1729400400000.000000",
+        "max_heart_rate_bpm": 121,
+        "min_heart_rate_bpm": 63,
+        "avg_heart_rate_bpm": 75.37450722733246
+      },
+      {
+        "date_date": "1729486800000.000000",
+        "max_heart_rate_bpm": 131,
+        "min_heart_rate_bpm": 53,
+        "avg_heart_rate_bpm": 68.92892768079801
+      },
+      {
+        "date_date": "1729573200000.000000",
+        "max_heart_rate_bpm": 160,
+        "min_heart_rate_bpm": 54,
+        "avg_heart_rate_bpm": 77.30399061032864
+      },
+      {
+        "date_date": "1729659600000.000000",
+        "max_heart_rate_bpm": 101,
+        "min_heart_rate_bpm": 55,
+        "avg_heart_rate_bpm": 71.14748953974896
+      },
+      {
+        "date_date": "1729746000000.000000",
+        "max_heart_rate_bpm": 121,
+        "min_heart_rate_bpm": 65,
+        "avg_heart_rate_bpm": 78.00714285714285
+      },
+      {
+        "date_date": "1729832400000.000000",
+        "max_heart_rate_bpm": 109,
+        "min_heart_rate_bpm": 53,
+        "avg_heart_rate_bpm": 70.78987898789879
+      },
+      {
+        "date_date": "1729918800000.000000",
+        "max_heart_rate_bpm": 158,
+        "min_heart_rate_bpm": 50,
+        "avg_heart_rate_bpm": 77.99398194583752
+      },
+      {
+        "date_date": "1730005200000.000000",
+        "max_heart_rate_bpm": 147,
+        "min_heart_rate_bpm": 62,
+        "avg_heart_rate_bpm": 86.67821782178218
+      },
+      {
+        "date_date": "1730091600000.000000",
+        "max_heart_rate_bpm": 129,
+        "min_heart_rate_bpm": 54,
+        "avg_heart_rate_bpm": 72.77101449275362
+      },
+      {
+        "date_date": "1730178000000.000000",
+        "max_heart_rate_bpm": 144,
+        "min_heart_rate_bpm": 53,
+        "avg_heart_rate_bpm": 74.16125419932811
+      },
+      {
+        "date_date": "1730264400000.000000",
+        "max_heart_rate_bpm": 140,
+        "min_heart_rate_bpm": 51,
+        "avg_heart_rate_bpm": 63.46412213740458
+      },
+      {
+        "date_date": "1730350800000.000000",
+        "max_heart_rate_bpm": 157,
+        "min_heart_rate_bpm": 53,
+        "avg_heart_rate_bpm": 65.53075571177504
+      },
+      {
+        "date_date": "1730437200000.000000",
+        "max_heart_rate_bpm": 116,
+        "min_heart_rate_bpm": 74,
+        "avg_heart_rate_bpm": 92.725
+      },
+      {
+        "date_date": "1730523600000.000000",
+        "max_heart_rate_bpm": 119,
+        "min_heart_rate_bpm": 76,
+        "avg_heart_rate_bpm": 96.58433734939759
+      },
+      {
+        "date_date": "1730610000000.000000",
+        "max_heart_rate_bpm": 147,
+        "min_heart_rate_bpm": 79,
+        "avg_heart_rate_bpm": 98.49484536082474
+      },
+      {
+        "date_date": "1730700000000.000000",
+        "max_heart_rate_bpm": 130,
+        "min_heart_rate_bpm": 62,
+        "avg_heart_rate_bpm": 98.88026124818578
+      },
+      {
+        "date_date": "1730786400000.000000",
+        "max_heart_rate_bpm": 163,
+        "min_heart_rate_bpm": 54,
+        "avg_heart_rate_bpm": 104.67651573292402
+      },
+      {
+        "date_date": "1730872800000.000000",
+        "max_heart_rate_bpm": 147,
+        "min_heart_rate_bpm": 69,
+        "avg_heart_rate_bpm": 109.58887381275441
+      },
+      {
+        "date_date": "1730959200000.000000",
+        "max_heart_rate_bpm": 117,
+        "min_heart_rate_bpm": 66,
+        "avg_heart_rate_bpm": 87.0089485458613
+      },
+      {
+        "date_date": "1731045600000.000000",
+        "max_heart_rate_bpm": 161,
+        "min_heart_rate_bpm": 70,
+        "avg_heart_rate_bpm": 107.59441233140655
+      },
+      {
+        "date_date": "1731132000000.000000",
+        "max_heart_rate_bpm": 177,
+        "min_heart_rate_bpm": 71,
+        "avg_heart_rate_bpm": 127.44702842377261
+      },
+      {
+        "date_date": "1731218400000.000000",
+        "max_heart_rate_bpm": 152,
+        "min_heart_rate_bpm": 73,
+        "avg_heart_rate_bpm": 92.92100192678227
+      },
+      {
+        "date_date": "1731304800000.000000",
+        "max_heart_rate_bpm": 156,
+        "min_heart_rate_bpm": 59,
+        "avg_heart_rate_bpm": 79.06953339432754
+      },
+      {
+        "date_date": "1731391200000.000000",
+        "max_heart_rate_bpm": 157,
+        "min_heart_rate_bpm": 56,
+        "avg_heart_rate_bpm": 78.06206896551724
+      },
+      {
+        "date_date": "1731477600000.000000",
+        "max_heart_rate_bpm": 177,
+        "min_heart_rate_bpm": 55,
+        "avg_heart_rate_bpm": 119.09932542451733
+      },
+      {
+        "date_date": "1731823200000.000000",
+        "max_heart_rate_bpm": 95,
+        "min_heart_rate_bpm": 95,
+        "avg_heart_rate_bpm": 95
+      },
+      {
+        "date_date": "1731996000000.000000",
+        "max_heart_rate_bpm": 68,
+        "min_heart_rate_bpm": 68,
+        "avg_heart_rate_bpm": 68
+      },
+      {
+        "date_date": "1732168800000.000000",
+        "max_heart_rate_bpm": 69,
+        "min_heart_rate_bpm": 69,
+        "avg_heart_rate_bpm": 69
+      },
+      {
+        "date_date": "1732514400000.000000",
+        "max_heart_rate_bpm": 67,
+        "min_heart_rate_bpm": 67,
+        "avg_heart_rate_bpm": 67
+      },
+      {
+        "date_date": "1732946400000.000000",
+        "max_heart_rate_bpm": 97,
+        "min_heart_rate_bpm": 71,
+        "avg_heart_rate_bpm": 87.0625
+      },
+      {
+        "date_date": "1733032800000.000000",
+        "max_heart_rate_bpm": 178,
+        "min_heart_rate_bpm": 59,
+        "avg_heart_rate_bpm": 137.90917107583775
+      },
+      {
+        "date_date": "1733119200000.000000",
+        "max_heart_rate_bpm": 154,
+        "min_heart_rate_bpm": 51,
+        "avg_heart_rate_bpm": 71.71892497200447
+      },
+      {
+        "date_date": "1733205600000.000000",
+        "max_heart_rate_bpm": 146,
+        "min_heart_rate_bpm": 63,
+        "avg_heart_rate_bpm": 87.9469387755102
+      },
+      {
+        "date_date": "1733292000000.000000",
+        "max_heart_rate_bpm": 172,
+        "min_heart_rate_bpm": 58,
+        "avg_heart_rate_bpm": 95.46638655462185
+      },
+      {
+        "date_date": "1733378400000.000000",
+        "max_heart_rate_bpm": 117,
+        "min_heart_rate_bpm": 51,
+        "avg_heart_rate_bpm": 86.38054794520548
+      },
+      {
+        "date_date": "1733464800000.000000",
+        "max_heart_rate_bpm": 150,
+        "min_heart_rate_bpm": 48,
+        "avg_heart_rate_bpm": 67.52180339985217
+      },
+      {
+        "date_date": "1733551200000.000000",
+        "max_heart_rate_bpm": 111,
+        "min_heart_rate_bpm": 56,
+        "avg_heart_rate_bpm": 68.35876840696118
+      },
+      {
+        "date_date": "1733637600000.000000",
+        "max_heart_rate_bpm": 178,
+        "min_heart_rate_bpm": 53,
+        "avg_heart_rate_bpm": 127.54742547425474
+      },
+      {
+        "date_date": "1733724000000.000000",
+        "max_heart_rate_bpm": 153,
+        "min_heart_rate_bpm": 51,
+        "avg_heart_rate_bpm": 72.88019169329074
+      },
+      {
+        "date_date": "1733810400000.000000",
+        "max_heart_rate_bpm": 151,
+        "min_heart_rate_bpm": 49,
+        "avg_heart_rate_bpm": 67.0614849187935
+      },
+      {
+        "date_date": "1733896800000.000000",
+        "max_heart_rate_bpm": 106,
+        "min_heart_rate_bpm": 55,
+        "avg_heart_rate_bpm": 69.2877030162413
+      },
+      {
+        "date_date": "1733983200000.000000",
+        "max_heart_rate_bpm": 174,
+        "min_heart_rate_bpm": 51,
+        "avg_heart_rate_bpm": 83.91145038167939
+      },
+      {
+        "date_date": "1734069600000.000000",
+        "max_heart_rate_bpm": 124,
+        "min_heart_rate_bpm": 54,
+        "avg_heart_rate_bpm": 74.21002210759028
+      },
+      {
+        "date_date": "1734156000000.000000",
+        "max_heart_rate_bpm": 179,
+        "min_heart_rate_bpm": 60,
+        "avg_heart_rate_bpm": 136.20291929021178
+      },
+      {
+        "date_date": "1734242400000.000000",
+        "max_heart_rate_bpm": 103,
+        "min_heart_rate_bpm": 61,
+        "avg_heart_rate_bpm": 72.6036036036036
+      },
+      {
+        "date_date": "1734328800000.000000",
+        "max_heart_rate_bpm": 129,
+        "min_heart_rate_bpm": 57,
+        "avg_heart_rate_bpm": 74.63649635036496
+      },
+      {
+        "date_date": "1734415200000.000000",
+        "max_heart_rate_bpm": 158,
+        "min_heart_rate_bpm": 60,
+        "avg_heart_rate_bpm": 82.02794117647059
+      },
+      {
+        "date_date": "1734501600000.000000",
+        "max_heart_rate_bpm": 160,
+        "min_heart_rate_bpm": 54,
+        "avg_heart_rate_bpm": 92.66687230104874
+      },
+      {
+        "date_date": "1734588000000.000000",
+        "max_heart_rate_bpm": 179,
+        "min_heart_rate_bpm": 63,
+        "avg_heart_rate_bpm": 130.22857142857143
+      },
+      {
+        "date_date": "1734674400000.000000",
+        "max_heart_rate_bpm": 121,
+        "min_heart_rate_bpm": 54,
+        "avg_heart_rate_bpm": 69.0572483841182
+      },
+      {
+        "date_date": "1734760800000.000000",
+        "max_heart_rate_bpm": 101,
+        "min_heart_rate_bpm": 53,
+        "avg_heart_rate_bpm": 66.70112589559878
+      },
+      {
+        "date_date": "1734847200000.000000",
+        "max_heart_rate_bpm": 149,
+        "min_heart_rate_bpm": 63,
+        "avg_heart_rate_bpm": 90.54790419161677
+      },
+      {
+        "date_date": "1734933600000.000000",
+        "max_heart_rate_bpm": 129,
+        "min_heart_rate_bpm": 68,
+        "avg_heart_rate_bpm": 86.75903614457832
+      },
+      {
+        "date_date": "1735020000000.000000",
+        "max_heart_rate_bpm": 95,
+        "min_heart_rate_bpm": 55,
+        "avg_heart_rate_bpm": 75.09009009009009
+      },
+      {
+        "date_date": "1735192800000.000000",
+        "max_heart_rate_bpm": 137,
+        "min_heart_rate_bpm": 76,
+        "avg_heart_rate_bpm": 91.94444444444444
+      },
+      {
+        "date_date": "1735279200000.000000",
+        "max_heart_rate_bpm": 133,
+        "min_heart_rate_bpm": 64,
+        "avg_heart_rate_bpm": 105.27546071774975
+      },
+      {
+        "date_date": "1735365600000.000000",
+        "max_heart_rate_bpm": 136,
+        "min_heart_rate_bpm": 61,
+        "avg_heart_rate_bpm": 83.19902912621359
+      },
+      {
+        "date_date": "1735538400000.000000",
+        "max_heart_rate_bpm": 116,
+        "min_heart_rate_bpm": 69,
+        "avg_heart_rate_bpm": 83.13133640552995
+      },
+      {
+        "date_date": "1735624800000.000000",
+        "max_heart_rate_bpm": 124,
+        "min_heart_rate_bpm": 59,
+        "avg_heart_rate_bpm": 79.91586206896552
+      },
+      {
+        "date_date": "1735711200000.000000",
+        "max_heart_rate_bpm": 133,
+        "min_heart_rate_bpm": 64,
+        "avg_heart_rate_bpm": 85.01129943502825
+      },
+      {
+        "date_date": "1735797600000.000000",
+        "max_heart_rate_bpm": 175,
+        "min_heart_rate_bpm": 64,
+        "avg_heart_rate_bpm": 94.10915492957747
+      },
+      {
+        "date_date": "1735884000000.000000",
+        "max_heart_rate_bpm": 155,
+        "min_heart_rate_bpm": 69,
+        "avg_heart_rate_bpm": 116.65656565656566
+      }
+    ],
+    "fields": [
+      {
+        "key": "date_date",
+        "name": "date_date",
+        "label": "Date",
+        "type": "date",
+        "unit": "epochMS"
+      },
+      {
+        "type": "number",
+        "unit": "float",
+        "meta": {
+          "defaultAggFieldConfig": ["min", "max"]
+        },
+        "key": "avg_heart_rate_bpm",
+        "name": "avg_heart_rate_bpm",
+        "label": "Average Beats per minute for Day"
+      },
+      {
+        "type": "number",
+        "unit": "int",
+        "meta": {
+          "defaultAggFieldConfig": ["avg", "min"]
+        },
+        "key": "max_heart_rate_bpm",
+        "name": "max_heart_rate_bpm",
+        "label": "Maximum Beats per minute for Day"
+      },
+      {
+        "type": "number",
+        "unit": "int",
+        "meta": {
+          "defaultAggFieldConfig": ["avg", "max"]
+        },
+        "key": "min_heart_rate_bpm",
+        "name": "min_heart_rate_bpm",
+        "label": "Minimum Beats per minute for Day"
+      }
+    ],
+    "total": 72
+  }
